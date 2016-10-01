@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 #define IN  1  /* Inside a word */
-#define OUT 0  /* Outside a word */
+#define OUT 0 /* Outside a word */
 
 int main () {
   int c, nl, nw, nc, state;
@@ -23,6 +23,6 @@ int main () {
     } 
 
     printf("%d %d %d\n", nl, nw, nc);
-
+    
   }
 }
