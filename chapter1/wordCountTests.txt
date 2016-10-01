@@ -1,2 +1,0 @@
-    Unit tests.  Zero words, one word, 2^32 words. All whitespace, no
-    whitespace, zero length input.
